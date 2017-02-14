@@ -14,7 +14,6 @@ import android.graphics.RectF;
 import android.graphics.Region;
 import android.graphics.Typeface;
 import android.graphics.drawable.Drawable;
-import android.support.v4.content.ContextCompat;
 import android.text.Layout;
 import android.text.StaticLayout;
 import android.text.TextPaint;
@@ -24,7 +23,6 @@ import android.view.View;
 import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.Toast;
-
 
 import java.io.BufferedOutputStream;
 import java.io.File;
@@ -38,7 +36,7 @@ import static com.allenliu.imagewatermark.DensityUtil.sp2px;
 
 
 /**
- * Created by Allen Liu on 2017/1/11.狗日的小光棍节
+ * Created by Allen Liu on 2017/2/14.狗日的光棍节
  * 水印设置和显示控件
  */
 

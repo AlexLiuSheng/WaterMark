@@ -1,22 +1,14 @@
 package com.allenliu.watermark;
 
-import android.content.Context;
-import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
-import android.graphics.Color;
-import android.graphics.drawable.BitmapDrawable;
-import android.graphics.drawable.Drawable;
-import android.support.v4.content.ContextCompat;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 
 import com.allenliu.imagewatermark.ImageWaterMarkView;
 import com.allenliu.imagewatermark.WaterMarkParamBean;
 import com.allenliu.imagewatermark.WaterMarkType;
 
 import java.util.ArrayList;
-
-import static android.R.attr.bitmap;
 
 public class MainActivity extends AppCompatActivity {
     ImageWaterMarkView waterMarkView;
